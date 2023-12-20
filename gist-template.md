@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial
 
 Introductory paragraph (replace this with your text)
 
@@ -21,7 +21,11 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Anchors
 
+    Anchors serve to specify the location within the input string where a match is intended. Rather than matching specific characters, anchors they define points in the string where certain conditions must be met.
+
 ### Quantifiers
+
+    quantifiers are symbols that specify the quantity or range of times a character or group of characters should occur. They allow you to identify patterns of varying lengths
 
 ### Grouping Constructs
 
@@ -37,4 +41,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Up and coming full stack web developer presenting a tutorial on regex and the breaking down the details of the document. 
+
+https://github.com/tjansen34
