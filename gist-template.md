@@ -49,17 +49,17 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Character Escapes
 
-character escapes are used to represent characters with special meanings, such as metacharacters. When aiming to match a character that is also a metacharacter, it is necessary to precede it with a backslash \ .
+    character escapes are used to represent characters with special meanings, such as metacharacters. When aiming to match a character that is also a metacharacter, it is necessary to precede it with a backslash \ .
 
-Here are some common character escapes in regex:
+    Here are some common character escapes in regex:
 
-\d: Matches any digit (0-9).
-\D: Matches any non-digit.
-\w: Matches any word character (alphanumeric + underscore).
-\W: Matches any non-word character.
-\s: Matches any whitespace character (space, tab, newline).
-\S: Matches any non-whitespace character.
-\.: Matches a literal dot (period).
+        \d: Matches any digit (0-9).
+        \D: Matches any non-digit.
+        \w: Matches any word character (alphanumeric + underscore).
+        \W: Matches any non-word character.
+        \s: Matches any whitespace character (space, tab, newline).
+        \S: Matches any non-whitespace character.
+        \.: Matches a literal dot (period).
 
 ## Author
 
