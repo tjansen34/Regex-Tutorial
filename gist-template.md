@@ -1,10 +1,10 @@
 # Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+In this tutorial, we'll examine various aspects of regular expressions (regex) by analyzing a comprehensive regex pattern designed to match and validate email addresses. This regex pattern will serve as our guide to understanding key concepts such as anchors, quantifiers, grouping constructs, bracket expressions, character classes, the OR operator, flags, and character escapes. Whether you're a beginner looking to grasp the basics or an experienced user aiming to refine your skills.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this guide, we'll explore various aspects of regular expressions (regex) by breaking down a comprehensive regex pattern. The regex pattern we'll use is designed to match and validate email addresses. We'll discuss anchors, quantifiers, grouping constructs, bracket expressions, character classes, the OR operator, flags, and character escapes.
 
 ## Table of Contents
 
